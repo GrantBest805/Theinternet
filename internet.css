@@ -1,0 +1,271 @@
+.container{
+  width: 970px;
+  height: 1000px;
+  margin-right: 0px;
+
+
+
+}
+h1{
+  display: inline-block;
+  margin: 0;
+  margin-top: 50px;
+  margin-left: 120px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 36px;
+  color: #929292;
+}
+span{
+  color: #4382a8;
+
+}
+.globe{
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  height: 120px;
+  width: 120px;
+}
+h4 span{
+  color: #dc605d;
+}
+
+img{
+
+  /*position: absolute;*/
+
+}
+h2{
+  margin-top: 10px;
+  margin-left: 20px;
+  color: white;
+  padding:10px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  box-shadow: 2px;
+  text-shadow: 1px 1px black;
+
+}
+.topbar{
+margin-top: 10px;
+background: linear-gradient( #03689a,#6493b4,#03689a);
+height: 56px;
+width: 970px;
+}
+.left1{
+  margin-top: 10px;
+  /*background-color: yellow;*/
+  display: inline-block;
+  width: 200px;;
+  height: 180px;
+  vertical-align: top;
+  text-align: left;
+  border-bottom: solid grey 1px;
+  margin-bottom: 10px;
+}
+.videobutton{
+  box-shadow: 3px 3px;
+  background-color: #3e7dab;
+  width: 180px;
+  height: 30px;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-top: 20px;
+  text-align: center;
+  padding-top: 5px;
+
+}
+
+.rebutton{
+  box-shadow: 3px 3px;
+  width: 180px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: #ea9b45;
+  margin-left: 10px;
+  margin-top: 10px;
+  text-align: center;
+  padding-top: 5px;
+}
+a{
+  color: white;
+  text-align: center;
+  text-decoration: none;
+
+
+
+}
+
+h3{
+  margin-top: 10px;
+  vertical-align: top;
+  display: inline-block;
+  font-family: sans-serif;
+  font-weight: lighter;
+  color: #296d9e;
+}
+h4{
+  margin: 10px;
+
+}
+p{
+  margin: 5px;
+  font-size: 14px;
+}
+.ningabackground{
+
+  width: 200px;
+  height: 290px;
+  margin-top: 10px;
+  text-align: center;
+  display: inline-block;
+}
+
+.ningabackground img{
+  width:200px;
+  height: 290px;
+  /*margin-top: -140px;*/
+
+}
+.home{
+  margin-top: 10px;
+  vertical-align: top;
+  height: 18px;
+  width: 18px;
+  margin-left: 36px
+
+}
+
+.phone{
+  display: inline-block;
+  vertical-align: top;
+  float: right;
+  margin-right: 20px;
+
+}
+.phone1 {
+  vertical-align: top;
+  height: 40px;
+  width: 40px;
+  margin-left: 460px;
+  margin-top: 8px;
+
+}
+.phone p{
+  margin: 0;
+  font-size: 10px;
+
+}
+h5{
+  margin: 0;
+  color: #00bce1;
+  font-size: 20px;
+  width: 100px;
+  letter-spacing: 1px;
+
+}
+h6{
+  position: relative;
+  font-family: sans-serif;
+  left: 1px;
+  top: -270px;
+  color: white;
+  font-size: 24px;
+  margin-top: 0px;
+  font-weight: lighter;
+  display: inline-block;
+}
+.midtext{
+  display: inline-block;
+  width: 730px;
+  height: 710px;
+  float: right;
+  margin-top: -130px;
+  text-align: left;
+  margin-bottom: none;
+  border-top: solid grey 1px;
+}
+.midtext p{
+  margin-bottom: -5px;
+  color: black;
+}
+ul{
+  font-size: 12.5px;
+  font-family: sans-serif;
+  margin-left: 23px;
+  margin-right: 23px;
+}
+ol{
+  font-size: 12.5px;
+  font-family: sans-serif;
+  margin-left: 23px;
+  margin-right: 23px;
+
+}
+li{
+  color: black;
+  margin-top: 0px;
+  /*margin-left: 8px;*/
+  margin-right: 8px;
+  margin-bottom: 8px;
+
+}
+.midtext img{
+  width: 200px;
+  height: 70px;
+  /*text-align: center;*/
+  margin-left: 35%;
+  padding-right: 100px;
+
+}
+.midtext h3{
+  margin-bottom: 0px;
+  font-weight: bold;
+
+}
+.ningapic{
+  position: relative;
+  top: -360px;
+  left: 57px;
+  height: 120px;
+  width: 80px;
+}
+.learnbutton{
+  background-color: #97dde7;
+  width: 180px;
+  height: 30px;
+  border-radius: 5px;
+  display: inline-block;
+  position: relative;
+  top: -190px;
+  left:0px;
+}
+
+.foot{
+  width: 700px;
+  height: 130px;
+  display: inline-block;
+  border-top: solid #97dde7 3px;
+  border-left: solid #97dde7 3px;
+  border-right: solid #97dde7 3px;
+
+}
+.foot img{
+  margin: 0;
+  width: 80px;
+  height: 80px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.foot h3{
+  margin-right: 40px;
+}
+.foot p{
+  text-align: left;
+  width: 500px;
+  height: 70px;
+  margin-right: 70px;
+  float: right;
+  margin-top: -50px;
+}
